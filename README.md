@@ -1,11 +1,5 @@
 # filmtv
-echo "# filmtv" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/daisyszq/filmtv.git
-git push -u origin master
-                Choose A Dataset of Your Own
+Choose A Dataset of Your Own
 You are welcome to use Kaggle or another platform (or your own data) to create a blog and Github post instead of using the datasets discussed above.
 
 Key Steps for Project
